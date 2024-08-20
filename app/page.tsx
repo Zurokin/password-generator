@@ -1,5 +1,5 @@
 import PasswordGenerator from "../components/PasswordGenerator";
-import DarkModeBtn from "./DarkModeBtn";
+import DarkModeBtn from "../components/DarkModeBtn";
 
 export default function Home() {
   return (
